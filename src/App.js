@@ -3,7 +3,16 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <> <h1>ABC</h1> </>
+  );
+}
+
+export default App;
+
+
+/**
+  Default boilerplate code
+ <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,7 +28,4 @@ function App() {
         </a>
       </header>
     </div>
-  );
-}
-
-export default App;
+*/
